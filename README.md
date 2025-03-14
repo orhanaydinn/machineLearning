@@ -12,14 +12,6 @@ KNN Binary classification Problem Solving
 
 ### 1.1.2 Machine Learning Model - KNN (K-Nearest Neighbors) & 1.1.3 Train Model  
 ### 1.1.4 Evaluation of Results 
-# Evaluate Model
-from sklearn.metrics import accuracy_score, classification_report
-
-accuracy = accuracy_score(y_test, y_pred)
-print(f"Accuracy: {accuracy}")
-
-print("\nClassification Report:\n", classification_report(y_test, y_pred))
-
 ### 1.1.5 - Hyperparameter Optimization  
 ### 1.1.6 K-NN Regression Problems  
 
